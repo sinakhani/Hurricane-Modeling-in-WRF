@@ -1,4 +1,4 @@
-# For more information, please contact: sina.khani@austin.utexas.edu, or skhani@princeton.edu, or sina.khany@gmail.com
+### For more information, please contact: sina.khani@austin.utexas.edu, or skhani@princeton.edu, or sina.khany@gmail.com
 
 - This directory includes data for high and coarse-resolution Hurricane simulations for Harvey (2017) and Ida (2021)\\
   using Weather Research and Forecasting (WRF) model.
