@@ -1,5 +1,3 @@
-### For more information, please contact: sina.khani@austin.utexas.edu, or skhani@princeton.edu, or sina.khany@gmail.com
-
 - This directory includes data for high and coarse-resolution Hurricane simulations for Harvey (2017) and Ida (2021)\\
   using Weather Research and Forecasting (WRF) model.
 
@@ -28,3 +26,5 @@ Vortz    : Absolute vorticity
 - d02 and d01 tails denote nest and main domains (see Khani and Dawson 2023). 
 - HHar and HIda denotes Harvey and Ida simulations.
 - 15km5km tail denote the coarse-reoslution simulation.  
+
+### For more information, please contact: sina.khani@austin.utexas.edu, or skhani@princeton.edu, or sina.khany@gmail.com
