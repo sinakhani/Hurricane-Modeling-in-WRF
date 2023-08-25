@@ -38,4 +38,4 @@ Vortz    : Absolute vorticity
 - HHar and HIda denotes Harvey and Ida simulations.
 - 15km5km tail denote the coarse-reoslution simulation.  
 
-### For more information, please contact: sina.khani@austin.utexas.edu, or skhani@princeton.edu, or sina.khany@gmail.com
+### To access outputs of WRF simulations and NETCDF files, please contact: sina.khani@austin.utexas.edu, or skhani@princeton.edu, or sina.khany@gmail.com
